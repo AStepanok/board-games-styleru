@@ -2,7 +2,7 @@ import Button from "@material-ui/core/Button";
 import React, {Component} from "react";
 import './buttons.css';
 
-class buy_button extends Component {
+class Buy_button extends Component {
     render() {
         return (
             <React.Fragment>
@@ -16,4 +16,4 @@ class buy_button extends Component {
     }
 }
 
-export default buy_button;
+export default Buy_button;

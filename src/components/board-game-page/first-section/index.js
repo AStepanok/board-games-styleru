@@ -2,7 +2,7 @@ import React from 'react';
 import './first-section.css';
 import Description from '../Description'
 import Icon from '../Game_icon'
-import buy_button from '../Buttons'
+import Buy_button from '../Buttons'
 import Heading from '../Game_heading'
 
 class FirstSection extends React.Component {
@@ -23,7 +23,7 @@ class FirstSection extends React.Component {
                             <Icon/>
                             <Icon/>
                         </div>
-                            <buy_button/>
+                            <Buy_button/>
                     </div>
                 </div>
             </div>
