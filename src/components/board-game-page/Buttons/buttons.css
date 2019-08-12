@@ -1,0 +1,26 @@
+.first-section__buy_button {
+    outline: none;
+    /*padding: 10px 25px 15px;*/
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 18px;
+    text-transform: uppercase;
+    /*margin: 0px 0px 0px 60px;*/
+    text-align: center;
+}
+
+@media (max-width: 600px) {
+    .first-section_buttons {
+        display: flex;
+        flex-direction: row;
+    }
+}
+
+@media (max-width: 400px) {
+    .first-section__buy_button {
+        font-family: 'Ubuntu', sans-serif;
+        text-transform: uppercase;
+        font-size: 30px;
+        /*position: absolute;*/
+        padding-left: 30px;
+    }
+}
