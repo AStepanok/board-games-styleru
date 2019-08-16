@@ -6,6 +6,7 @@ import Buy_button from '../Buttons'
 import Heading from '../Game_heading'
 
 class FirstSection extends React.Component {
+
     render() {
         return (
             <div className='first-section'>
@@ -15,12 +16,9 @@ class FirstSection extends React.Component {
                     </h1>
                     <div className="first-section__game-description">
                         <Description/>
-                        <Description/>
                     </div>
                     <div className='first-section_buttons'>
                         <div className="first-section__item-wrapper">
-                            <Icon/>
-                            <Icon/>
                             <Icon/>
                         </div>
                             <Buy_button/>

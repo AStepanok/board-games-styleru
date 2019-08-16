@@ -1,6 +1,6 @@
 .first-section {
     height: 100%;
-    background-image: url('http://bygaga.com.ua/uploads/posts/2016-04/1461001803_img_8689_1500x1500.jpg');
+    background-image: url('https://www.korablik.ru/upload/resize_cache/iblock/cc6/1200_1200_1/cc6b7a3b64e4d26f673940ad90c073e2.jpg');
     background-size: cover;
     background-position: center;
     color: white;
@@ -36,10 +36,6 @@
     margin-bottom: 15px;
 }
 
-.first-section__game-description {
-
-}
-
 .first-section__buy_button {
     outline: none;
     /*padding: 10px 25px 15px;*/
@@ -53,7 +49,7 @@
 @media (max-width: 600px) {
     .first-section {
         height: 100%;
-        background-image: url('http://bygaga.com.ua/uploads/posts/2016-04/1461001803_img_8689_1500x1500.jpg');
+        background-image: url('https://www.korablik.ru/upload/resize_cache/iblock/cc6/1200_1200_1/cc6b7a3b64e4d26f673940ad90c073e2.jpg');
         background-size: cover;
         background-position: center;
         color: white;
@@ -116,7 +112,7 @@
 @media (max-width: 400px) {
     .first-section {
         height: 100%;
-        background-image: url('http://bygaga.com.ua/uploads/posts/2016-04/1461001803_img_8689_1500x1500.jpg');
+        background-image: url('https://www.korablik.ru/upload/resize_cache/iblock/cc6/1200_1200_1/cc6b7a3b64e4d26f673940ad90c073e2.jpg');
         background-size: cover;
         background-position: center;
         color: white;
