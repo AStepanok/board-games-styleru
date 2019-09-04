@@ -8,7 +8,7 @@ export default class App extends Component {
             <Fullpage>
                 <FullPageSections>
                     <FullpageSection>
-                        <FirstSection />
+                        <FirstSection/>
                     </FullpageSection>
                     <FullpageSection>2</FullpageSection>
                     <FullpageSection>3</FullpageSection>
