@@ -11,3 +11,11 @@
     align-items: flex-end;
     flex-direction: column;
 }
+
+
+@media (max-width: 1024px) {
+    .first-section__content-wrapper {
+        justify-content: center;
+        align-items: center;
+    }
+}

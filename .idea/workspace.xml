@@ -2,20 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d6e48ae-6470-4ed2-b317-27c6b9355427" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/board-game-page/first-section/first-section__content-wrapper/first-section__buy-button/first-section__buy-button.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/board-game-page/first-section/first-section__content-wrapper/first-section__buy-button/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/board-game-page/first-section/first-section__content-wrapper/first-section__content-wrapper.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/board-game-page/first-section/first-section__content-wrapper/first-section__game-description/f-sec__game-description.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/board-game-page/first-section/first-section__content-wrapper/first-section__game-description/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/board-game-page/first-section/first-section__content-wrapper/first-section__game-heading/first-section__game-heading.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/board-game-page/first-section/first-section__content-wrapper/first-section__game-heading/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/board-game-page/first-section/first-section__content-wrapper/first-section__icon-wrapper/first-section__icon-wrapper.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/board-game-page/first-section/first-section__content-wrapper/first-section__icon-wrapper/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/board-game-page/first-section/first-section__content-wrapper/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/board-game-page/first-section/first-section.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/board-game-page/first-section/first-section.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/board-game-page/first-section/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/board-game-page/first-section/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/board-game-page/first-section/first-section__content-wrapper/first-section__buy-button/first-section__buy-button.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/board-game-page/first-section/first-section__content-wrapper/first-section__buy-button/first-section__buy-button.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/board-game-page/first-section/first-section__content-wrapper/first-section__content-wrapper.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/board-game-page/first-section/first-section__content-wrapper/first-section__content-wrapper.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/board-game-page/first-section/first-section__content-wrapper/first-section__game-description/f-sec__game-description.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/board-game-page/first-section/first-section__content-wrapper/first-section__game-description/f-sec__game-description.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/board-game-page/first-section/first-section__content-wrapper/first-section__game-heading/first-section__game-heading.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/board-game-page/first-section/first-section__content-wrapper/first-section__game-heading/first-section__game-heading.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/board-game-page/first-section/first-section__content-wrapper/first-section__icon-wrapper/first-section__icon-wrapper.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/board-game-page/first-section/first-section__content-wrapper/first-section__icon-wrapper/first-section__icon-wrapper.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/board-game-page/first-section/first-section__content-wrapper/first-section__icon-wrapper/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/board-game-page/first-section/first-section__content-wrapper/first-section__icon-wrapper/index.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -40,14 +33,47 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/components/board-game-page/first-section/first-section__content-wrapper/first-section__icon-wrapper/index.js">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/board-game-page/first-section/first-section.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="360">
+              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/board-game-page/first-section/first-section__content-wrapper/first-section__game-heading/first-section__game-heading.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/board-game-page/first-section/first-section__content-wrapper/first-section__game-description/f-sec__game-description.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/board-game-page/first-section/first-section__content-wrapper/first-section__content-wrapper.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/components/board-game-page/first-section/first-section__content-wrapper/first-section__icon-wrapper/first-section__icon-wrapper.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1160">
+              <caret line="58" column="5" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -84,10 +110,15 @@
         <option value="$PROJECT_DIR$/src/components/board-game-page/first-section/first-section__buy-button/index.js" />
         <option value="$PROJECT_DIR$/src/components/board-game-page/first-section/first-section__buy-button/first-section__buy-button.css" />
         <option value="$PROJECT_DIR$/src/components/board-game-page/first-section/first-section.css" />
-        <option value="$PROJECT_DIR$/src/components/board-game-page/first-section/first-section__content-wrapper/first-section__content-wrapper.css" />
         <option value="$PROJECT_DIR$/src/components/board-game-page/first-section/first-section__content-wrapper/index.js" />
         <option value="$PROJECT_DIR$/src/components/board-game-page/first-section/index.js" />
         <option value="$PROJECT_DIR$/src/components/board-game-page/first-section/first-section__content-wrapper/first-section__icon-wrapper/index.js" />
+        <option value="$PROJECT_DIR$/src/components/board-game-page/first-section/first-section__content-wrapper/first-section__buy-button/index.js" />
+        <option value="$PROJECT_DIR$/src/components/board-game-page/first-section/first-section__content-wrapper/first-section__content-wrapper.css" />
+        <option value="$PROJECT_DIR$/src/components/board-game-page/first-section/first-section__content-wrapper/first-section__game-heading/first-section__game-heading.css" />
+        <option value="$PROJECT_DIR$/src/components/board-game-page/first-section/first-section__content-wrapper/first-section__buy-button/first-section__buy-button.css" />
+        <option value="$PROJECT_DIR$/src/components/board-game-page/first-section/first-section__content-wrapper/first-section__game-description/f-sec__game-description.css" />
+        <option value="$PROJECT_DIR$/src/components/board-game-page/first-section/first-section__content-wrapper/first-section__icon-wrapper/first-section__icon-wrapper.css" />
       </list>
     </option>
   </component>
@@ -98,9 +129,10 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1005" />
-    <option name="width" value="925" />
-    <option name="height" value="1040" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="978" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -152,6 +184,36 @@
               <item name="board-game-page" type="462c0819:PsiDirectoryNode" />
               <item name="first-section" type="462c0819:PsiDirectoryNode" />
               <item name="first-section__content-wrapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="board-games-styleru" type="b2602c69:ProjectViewProjectNode" />
+              <item name="board-games-styleru" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="board-game-page" type="462c0819:PsiDirectoryNode" />
+              <item name="first-section" type="462c0819:PsiDirectoryNode" />
+              <item name="first-section__content-wrapper" type="462c0819:PsiDirectoryNode" />
+              <item name="first-section__buy-button" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="board-games-styleru" type="b2602c69:ProjectViewProjectNode" />
+              <item name="board-games-styleru" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="board-game-page" type="462c0819:PsiDirectoryNode" />
+              <item name="first-section" type="462c0819:PsiDirectoryNode" />
+              <item name="first-section__content-wrapper" type="462c0819:PsiDirectoryNode" />
+              <item name="first-section__game-description" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="board-games-styleru" type="b2602c69:ProjectViewProjectNode" />
+              <item name="board-games-styleru" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="board-game-page" type="462c0819:PsiDirectoryNode" />
+              <item name="first-section" type="462c0819:PsiDirectoryNode" />
+              <item name="first-section__content-wrapper" type="462c0819:PsiDirectoryNode" />
+              <item name="first-section__game-heading" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="board-games-styleru" type="b2602c69:ProjectViewProjectNode" />
@@ -215,12 +277,12 @@
       <workItem from="1565195448703" duration="5032000" />
       <workItem from="1566858747261" duration="2888000" />
       <workItem from="1567008902145" duration="266000" />
-      <workItem from="1567587769596" duration="645000" />
+      <workItem from="1567587769596" duration="11527000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13087000" />
+    <option name="totallyTimeSpent" value="23969000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -297,6 +359,11 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/board-game-page/first-section/first-section__icon-wrapper/f-sec__icon-wrapper.css" />
+    <entry file="file://$PROJECT_DIR$/src/components/board-game-page/first-section/first-section__icon-wrapper/sdgsshdh.css" />
+    <entry file="file://$PROJECT_DIR$/src/App.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/index.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20">
@@ -304,80 +371,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/board-game-page/first-section/first-section__content-wrapper/first-section__game-heading/first-section__game-heading.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/board-game-page/first-section/first-section__content-wrapper/first-section__game-heading/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="65" selection-end-line="12" selection-end-column="41" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/board-game-page/first-section/first-section__content-wrapper/first-section__game-description/f-sec__game-description.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/board-game-page/first-section/first-section__icon-wrapper/f-sec__icon-wrapper.css" />
-    <entry file="file://$PROJECT_DIR$/src/components/board-game-page/first-section/first-section__icon-wrapper/sdgsshdh.css" />
-    <entry file="file://$PROJECT_DIR$/src/components/board-game-page/first-section/first-section__content-wrapper/first-section__game-description/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="39" lean-forward="true" selection-start-line="2" selection-end-line="3" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/board-game-page/first-section/first-section__content-wrapper/first-section__icon-wrapper/first-section__icon-wrapper.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/board-game-page/first-section/first-section__content-wrapper/first-section__buy-button/first-section__buy-button.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/board-game-page/first-section/first-section__content-wrapper/first-section__buy-button/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        <state relative-caret-position="160">
+          <caret line="8" column="73" lean-forward="true" selection-start-line="8" selection-start-column="73" selection-end-line="8" selection-end-column="73" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/board-game-page/first-section/first-section.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/board-game-page/first-section/first-section__content-wrapper/first-section__content-wrapper.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="27" lean-forward="true" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
         </state>
       </provider>
     </entry>
@@ -388,6 +388,43 @@
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/board-game-page/first-section/first-section__content-wrapper/first-section__game-description/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="39" lean-forward="true" selection-start-column="7" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/board-game-page/first-section/first-section__content-wrapper/first-section__icon-wrapper/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="81" selection-start-line="17" selection-start-column="81" selection-end-line="17" selection-end-column="81" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/board-game-page/first-section/first-section__content-wrapper/first-section__game-heading/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="41" lean-forward="true" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/board-game-page/first-section/first-section__content-wrapper/first-section__buy-button/first-section__buy-button.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -411,13 +448,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/board-game-page/first-section/first-section__content-wrapper/first-section__icon-wrapper/index.js">
+    <entry file="file://$PROJECT_DIR$/src/components/board-game-page/first-section/first-section.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="360">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/board-game-page/first-section/first-section__content-wrapper/first-section__game-description/f-sec__game-description.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/board-game-page/first-section/first-section__content-wrapper/first-section__game-heading/first-section__game-heading.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/board-game-page/first-section/first-section__content-wrapper/first-section__content-wrapper.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/board-game-page/first-section/first-section__content-wrapper/first-section__icon-wrapper/first-section__icon-wrapper.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1160">
+          <caret line="58" column="5" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
         </state>
       </provider>
     </entry>
