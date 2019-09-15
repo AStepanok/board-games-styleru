@@ -15,7 +15,7 @@ class FirstSection extends React.Component {
                         <Heading/>
                     </h1>
                     <div className="first-section__game-description">
-                        <Description/>
+                        <Description text = "WoW, dat Monopoly"/>
                     </div>
                     <div className='first-section_buttons'>
                         <div className="first-section__item-wrapper">

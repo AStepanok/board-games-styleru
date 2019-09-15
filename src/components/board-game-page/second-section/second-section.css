@@ -1,0 +1,18 @@
+.second-section__game-heading {
+    font-size: 48px;
+    margin-bottom: 15px;
+    text-align: center;
+    margin-top: 5%;
+}
+
+.second-section__content-wrapper {
+    height: 100%;
+}
+
+.second-section {
+    height: 100%;
+}
+
+/*
+Или т.к. пиксельный маржин не работает, то делаем паддинг в div где лежит heading
+ */

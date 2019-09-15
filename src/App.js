@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import Fullpage, { FullPageSections, FullpageSection } from '@ap.cx/react-fullpage';
 import FirstSection from './components/board-game-page/first-section';
+import SecondSection from './components/board-game-page/second-section';
+
 
 export default class App extends Component {
     render () {
@@ -10,7 +12,9 @@ export default class App extends Component {
                     <FullpageSection>
                         <FirstSection />
                     </FullpageSection>
-                    <FullpageSection>2</FullpageSection>
+                    <FullpageSection>
+                        <SecondSection />
+                    </FullpageSection>
                     <FullpageSection>3</FullpageSection>
                 </FullPageSections>
             </Fullpage>

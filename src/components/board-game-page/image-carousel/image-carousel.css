@@ -1,0 +1,24 @@
+.second-section__image-carousel {
+    margin-top: 5%;
+}
+
+.second-section__image-carousel div {
+    text-align: center;
+}
+
+.second-section__image-carousel img {
+    margin: 0px auto;
+}
+
+.slick-prev:before, .slick-next:before {
+    color: #000000;
+}
+
+.slick-prev {
+    left: 30px;
+    z-index: 10;
+}
+
+.slick-next {
+    right: 30px;
+}
