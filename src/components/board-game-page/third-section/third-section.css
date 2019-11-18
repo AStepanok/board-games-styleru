@@ -1,0 +1,40 @@
+.third-section {
+    height: 100%;
+}
+.third-section__content-wrapper {
+    height: 100%;
+    padding-top: 100px;
+}
+.third-section__form {
+    margin: 100px auto 0;
+    display: block;
+    width: 50%;
+}
+.third-section__name-input, .third-section__comment-area {
+    display: block;
+    width: 100%;
+    margin-top: 5px;
+}
+.third-section__form-group {
+    margin-bottom:20px;
+}
+.third-section__comments-wrapper {
+    width: 50%;
+    margin: 25px auto 0;
+}
+.third-section__comment-wrapper {
+    border: 1px solid black;
+    box-shadow: 0 0 10px green;
+    margin-bottom: 15px;
+    transition: .3s;
+}
+.third-section__comment-wrapper:hover {
+    box-shadow: none;
+    cursor: pointer;
+    transform: scale(0.8);
+    background: aqua;
+}
+.third-section__comment-wrapper h6 {
+    font-size: 16px;
+    margin: 0 0 10px;
+}

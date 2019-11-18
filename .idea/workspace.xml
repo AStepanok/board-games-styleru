@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d6e48ae-6470-4ed2-b317-27c6b9355427" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/board-game-page/second-section/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/board-game-page/second-section/second-section.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/board-game-page/first-section/first-section.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/board-game-page/first-section/first-section.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/board-game-page/first-section/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/board-game-page/first-section/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -28,7 +35,7 @@
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
-  <component name="ProjectId" id="1Q3xKZxBUZXvLm1HNwm902QN0Q5" />
+  <component name="ProjectId" id="1SCaFvYH42rO5YyhuG1Y5kICRE7" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -36,15 +43,17 @@
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../rpn 2" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -74,7 +83,21 @@
       <option name="presentableId" value="Default" />
       <updated>1564590500157</updated>
       <workItem from="1564590501380" duration="4256000" />
-      <workItem from="1567013019318" duration="169000" />
+      <workItem from="1565195700696" duration="4733000" />
+      <workItem from="1565218052348" duration="19000" />
+      <workItem from="1571069933357" duration="1599000" />
+      <workItem from="1571071756467" duration="1770000" />
+      <workItem from="1571073572723" duration="1746000" />
+      <workItem from="1571075389077" duration="406000" />
+      <workItem from="1572280382547" duration="1775000" />
+      <workItem from="1572282184469" duration="1777000" />
+      <workItem from="1572283996960" duration="1718000" />
+      <workItem from="1573488648355" duration="1685000" />
+      <workItem from="1573490653062" duration="1601000" />
+      <workItem from="1573492472111" duration="1813000" />
+      <workItem from="1573494430739" duration="818000" />
+      <workItem from="1573496670952" duration="278000" />
+      <workItem from="1573746636028" duration="704000" />
     </task>
     <servers />
   </component>
@@ -86,7 +109,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
